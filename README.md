@@ -87,7 +87,7 @@ earthquake-visualizer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/earthquake-visualizer.git
+   git clone https://github.com/saifakhtar09/Earthquake-Visualizer.git
    cd earthquake-visualizer
    ```
 
