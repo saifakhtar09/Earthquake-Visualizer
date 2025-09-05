@@ -214,15 +214,7 @@ Enable debug logging by adding to localStorage:
 localStorage.setItem('debug', 'true');
 ```
 
-##  Contributing
 
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### Development Guidelines
 - Follow existing code style and conventions
@@ -248,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support or questions:
 - Open an issue on GitHub
 - Email: your-email@example.com
-- Documentation: [Project Wiki](https://github.com/your-username/earthquake-visualizer/wiki)
+- Documentation: [https://github.com/saifakhtar09)
 
 ---
 
