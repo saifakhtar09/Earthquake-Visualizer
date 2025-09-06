@@ -156,13 +156,6 @@ const EarthquakeList = () => {
             />
           ))}
       </div>
-
-      {/* Footer */}
-      <div className="p-2 sm:p-3 bg-gray-50 border-t border-gray-200">
-        <div className="text-[10px] sm:text-xs text-gray-600 text-center">
-          Showing {filteredEarthquakes.length} earthquakes from the past 24 hours
-        </div>
-      </div>
     </div>
   );
 };
