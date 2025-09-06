@@ -2,6 +2,9 @@
 
 A modern, responsive web application that visualizes real-time earthquake data from the USGS Earthquake API on an interactive world map. Built with React, Vite, Tailwind CSS, and Leaflet.
 
+##  Live Demo
+🌍 **[View Live Application](https://r627js-5173.csb.app/)**
+
 
 ##  Features
 
