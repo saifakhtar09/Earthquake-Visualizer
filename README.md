@@ -4,7 +4,7 @@ A modern, responsive web application that visualizes real-time earthquake data f
 
 ##  Live Demo
  **Sabdbox[View Live Application](https://r627js-5173.csb.app/)**
- **Netlify [https://earthquakeproject1.netlify.app/]
+ **Netlify[View Live Application] (https://earthquakeproject1.netlify.app/)**
 
 
 
